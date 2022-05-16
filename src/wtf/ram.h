@@ -38,7 +38,7 @@ struct Page {
 //
 
 class Ram_t {
-  static constexpr uint64_t LargestRamSize = 0x01'08'00'00'00;
+  static constexpr uint64_t LargestRamSize = 0x02'08'00'00'00;
 
   //
   // This is the kernel dump we forward requests to when we don't have our own
